@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently focused on transitioning into **Data Science** and **Machine Learning**, building on a strong foundation in **C++** and systems programming. While my interests initially revolved around low-level programming, computer graphics, operating systems, and game development, I've gradually shifted my focus toward applying programming to solve data-driven problems.
+I'm currently focused on transitioning into **Data Science** and **Machine Learning**, building on a strong foundation in **C++** and systems programming. While my interests initially revolved around low-level programming, computer graphics, operating systems, and game development, I've gradually shifted my focus toward applying programming to solve data-driven problems
 
 I enjoy working with **Python** for data analysis, machine learning, and scientific computing, while continuing to use **C++** whenever performance and deeper understanding of algorithms matter. My background in lower-level programming has given me a strong appreciation for efficient software, algorithm design, and the technical foundations behind modern AI systems.
 
